@@ -1,0 +1,158 @@
+.main-div {
+  display: flex;
+  height: 1000px;
+  flex-direction: column;
+}
+.top-div {
+  display: flex;
+  justify-content: right;
+  height: 9%;
+  background-color: whitesmoke;
+  box-shadow: 2px 2px whitesmoke;
+}
+.bottom-div {
+  height: 90%;
+  margin-top: 2px;
+  background-color: white;
+  box-shadow: 2px 2px whitesmoke;
+}
+.logo {
+  margin-right: auto;
+  margin-left: 2%;
+}
+.nav2 {
+  margin-top: 35px;
+  margin-right: 32px;
+}
+.nav3 {
+  margin-top: 35px;
+  margin-right: 32px;
+}
+.nav4 {
+  margin-top: 35px;
+  margin-right: 32px;
+}
+.nav5 {
+  margin-top: 35px;
+  margin-right: 25px;
+}
+.bottom-main-div {
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+  width: 90%;
+  min-width: 1350px;
+  margin-left: 5%;
+  margin-top: 20px;
+  background-color: white;
+}
+.discover-div {
+  height: 90px;
+  min-width: 1350px;
+  color: white;
+  background-color: black;
+}
+.discover-text {
+  padding: 15px;
+  font-size: 25px;
+}
+.all-course {
+  width: 70%;
+  height: 100%;
+  background-color: white;
+}
+.all-course-header {
+  display: flex;
+  width: 97%;
+  min-width: 830px;
+  margin-left: 2%;
+  margin-top: 15px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.course-tile {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: 99%;
+  min-width: 850px;
+  height: 11%;
+  margin-top: 2%;
+  background-color: white;
+  box-shadow: 3px 3px whitesmoke;
+}
+.div1 {
+  background-color: whitesmoke;
+  width: 8%;
+  min-width: 4%;
+  height: 80%;
+  margin-left: 1%;
+}
+.div2 {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  min-width: 280px;
+  height: 80px;
+  margin-left: 1%;
+  margin-top: 5px;
+  padding-top: 5px;
+}
+.div3 {
+  margin-left: 5%;
+}
+.div4 {
+  margin-left: 6%;
+}
+.div5 {
+  margin-left: 2%;
+}
+.div6 {
+  margin-left: 5%;
+}
+.div7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: orangered;
+  width: 11%;
+  height: 55%;
+  margin-left: 6%;
+}
+.div8 {
+  margin-left: 8%;
+}
+.React-box {
+  display: flex;
+  width: 55%;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.course-cart {
+  display: flex;
+  flex-direction: row;
+}
+.cart {
+  width: 30%;
+  min-width: 450px;
+  height: 50%;
+  margin-top: 15px;
+  background-color: white;
+  border: 3px solid whitesmoke;
+  /* box-shadow: 3px 3px whitesmoke; */
+}
+.search input[type="text"] {
+  width: 90%;
+  height: 25px;
+  border: gray;
+  background-color: lightblue;
+}
+.search button {
+  background-color: lightblue;
+  color: bisque;
+}
+.cart-detail {
+  margin-top: 2%;
+}
